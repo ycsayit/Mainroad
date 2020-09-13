@@ -92,3 +92,6 @@
     "<b>Tip:</b> You can show as many sections as you like with \
     <b><a href=\"https://gohugo.io/functions/where/#mainsections\" rel=\"nofollow noopener\" target=\"_blank\">mainSections</a></b> \
     config parameter."
+
+- id: related_title
+  translation: "See Also"
